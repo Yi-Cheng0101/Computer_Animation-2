@@ -1,0 +1,4 @@
+/Users/yi-cheng/Desktop/HW1/build/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/foo.dir
+/Users/yi-cheng/Desktop/HW1/build/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/boo.dir
+/Users/yi-cheng/Desktop/HW1/build/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/edit_cache.dir
+/Users/yi-cheng/Desktop/HW1/build/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/rebuild_cache.dir
