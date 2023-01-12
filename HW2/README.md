@@ -1,4 +1,4 @@
-# NYCU CA2022 Homework 2
+# Computer Special Effects on Physical Based Simulation - 
 
 ## Dependencies
 
