@@ -1,4 +1,4 @@
-# NYCU CA2022 Homework 1
+# Computer Special Effects on Physical Based Simulation
 
 ## Dependencies
 
@@ -6,14 +6,6 @@
 - [glfw](https://github.com/glfw/glfw)
 - [glad](https://github.com/Dav1dde/glad)
 - [Dear ImGui](https://github.com/ocornut/imgui)
-
-### Dependencies for Windows
-
-Visual Studio
-
-### Dependencies for macOS
-
-Xcode
 
 ### Dependencies for Unix-like systems other than macOS with X11
 
@@ -49,8 +41,3 @@ cd bin
 ./HW1
 ```
 
-### Visual Studio 2019
-
-- Open `HW1.sln`
-- Select config then build (CTRL+SHIFT+B)
-- Use F5 to debug or CTRL+F5 to run.
