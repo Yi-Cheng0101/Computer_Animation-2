@@ -7,14 +7,6 @@
 - [glad](https://github.com/Dav1dde/glad)
 - [Dear ImGui](https://github.com/ocornut/imgui)
 
-### Dependencies for Windows
-
-Visual Studio
-
-### Dependencies for macOS
-
-Xcode
-
 ### Dependencies for Unix-like systems other than macOS with X11
 
 On *Debian* and derivatives like *Ubuntu* and *Linux Mint*
@@ -48,9 +40,3 @@ cmake --build build --config Debug --parallel 8
 cd bin
 ./HW2
 ```
-
-### Visual Studio 2019
-
-- Open `HW2.sln`
-- Select config then build (CTRL+SHIFT+B)
-- Use F5 to debug or CTRL+F5 to run.
