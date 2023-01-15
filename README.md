@@ -1,4 +1,4 @@
-# Computer Special Effects on Physical Based Simulation - HW 1 Collision 
+# Computer Special Effects on Physical Based Simulation - HW 1 Particle System
 
 ## Dependencies
 
@@ -43,7 +43,7 @@ cd bin
 
 ---
 
-# Computer Special Effects on Physical Based Simulation - HW2
+# Computer Special Effects on Physical Based Simulation - HW2 Forward Kinematics
 
 ## Dependencies
 
